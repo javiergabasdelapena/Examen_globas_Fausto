@@ -1,0 +1,60 @@
+{
+  "Basauri": {
+    "Etxebarri": 3
+  },
+  "Etxebarri": {
+    "Basauri": 3,
+    "Bolueta": 2
+  },
+  "Bolueta": {
+    "Etxebarri": 2,
+    "Basarrate": 2
+  },
+  "Basarrate": {
+    "Bolueta": 2,
+    "Santutxu": 2
+  },
+  "Santutxu": {
+    "Basarrate": 2,
+    "Zazpikaleak/Casco Viejo": 2
+  },
+  "Zazpikaleak/Casco Viejo": {
+    "Santutxu": 2,
+    "Abando": 2,
+    "Uribarri": 2
+  },
+  "Abando": {
+    "Zazpikaleak/Casco Viejo": 2,
+    "Moyua": 3,
+    "skerricasco": 180.0
+  },
+  "Uribarri": {
+    "Zazpikaleak/Casco Viejo": 2,
+    "Matiko": 2
+  },
+  "Matiko": {
+    "Uribarri": 2
+  },
+  "Moyua": {
+    "Abando": 3,
+    "Indautxu": 2
+  },
+  "Indautxu": {
+    "Moyua": 2,
+    "San Mames": 2
+  },
+  "San Mames": {
+    "Indautxu": 2,
+    "Deustu": 2
+  },
+  "Deustu": {
+    "San Mames": 2,
+    "Sarriko": 3
+  },
+  "Sarriko": {
+    "Deustu": 3
+  },
+  "skerricasco": {
+    "Abando": 180.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Sol": {
+    "Gran Vía": 2,
+    "Ópera": 3,
+    "Sevilla": 2
+  },
+  "Gran Vía": {
+    "Sol": 2,
+    "Callao": 1,
+    "Chueca": 2
+  },
+  "Callao": {
+    "Gran Vía": 1,
+    "Plaza España": 2,
+    "Chueca": 20.0
+  },
+  "Ópera": {
+    "Sol": 3,
+    "Plaza España": 4
+  },
+  "Plaza España": {
+    "Callao": 2,
+    "Ópera": 4,
+    "Príncipe Pío": 3
+  },
+  "Sevilla": {
+    "Sol": 2,
+    "Banco de España": 2
+  },
+  "Banco de España": {
+    "Sevilla": 2
+  },
+  "Chueca": {
+    "Gran Vía": 2,
+    "Callao": 20.0
+  },
+  "Príncipe Pío": {
+    "Plaza España": 3
+  },
+  "six seven": {}
+}
